@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["dark/_darkmode.scss"],"names":[],"mappings":"AACA,mCAEI,KACI,iBAFS","file":"dark/index.css","sourcesContent":["\n@media (prefers-color-scheme: dark) {\n    $grisOscuro: #2c2c3b;\n    body {\n        background-color: $grisOscuro;\n    }\n}"]}
